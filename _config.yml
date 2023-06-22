@@ -1,6 +1,6 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
+title: admi-Training
+description: A portfolio for projects
 url: https://vszhub.github.io
 avatar: /avatar.jpeg
 paginate: 5
@@ -33,10 +33,10 @@ twitter:
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: Anthony Nwafor
   links:
     - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://github.com/7bbg
 google_site_verification: xxxxx
 lang: en
 
